@@ -1,0 +1,7 @@
+Equipe = "Vinicius Soethe" ,
+
+Passos BD 
+
+1-Criar BD ('bd_loja');
+2-Importar Configs do caminho documentos/bd_loja.sql;
+3-Abrir e testar;
